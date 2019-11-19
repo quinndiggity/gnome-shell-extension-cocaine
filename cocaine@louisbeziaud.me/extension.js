@@ -78,7 +78,7 @@ class Cocaine extends PanelMenu.Button {
     }
 
     destroy() {
-        _stopInhibiter();
+        this._stopInhibiter();
     }
 });
 
