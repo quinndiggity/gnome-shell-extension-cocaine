@@ -1,0 +1,9 @@
+{
+  "name": "Cocaine",
+  "description": "Inhibit shutdown, sleep, and idle",
+  "uuid": "cocaine@louisbeziaud.me",
+  "url": "https://github.com/lbeziaud/gnome-shell-extension-cocaine",
+  "shell-version": [
+    "3.34"
+  ]
+}
